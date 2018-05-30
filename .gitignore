@@ -1,2 +1,6 @@
-*.hi
-*.o
+*
+!chapter01-08
+!chapter01-08/helloworld
+!chapter01-08/shape
+tmp
+!**/*.hs
